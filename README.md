@@ -9,8 +9,8 @@ Download the software only: https://drive.google.com/file/d/0Bw-qNYNSGhdCbVdSdzZ
 
 Download full documentation for free:
 
-https://www.scribd.com/doc/296989740/InventoryManagementSystem-Sajan-Rajbhandari
-Inventory-Management-System-Sajan-Rajbhandari.pdf
+https://www.scribd.com/doc/296989740/InventoryManagementSystem-kshitij-singh
+Inventory-Management-System-kshitij-singh.pdf
 Credentials:
 
 After importing the above sql file and adding the plugins, try using the credential username: user4 and password: test123
